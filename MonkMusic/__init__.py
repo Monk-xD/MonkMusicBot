@@ -75,7 +75,7 @@ ASSMENTION = ""
 print("[ INFO ] <--- PREPARING BOT & USERBOT --->")
 
 bot = Client(
-    'mega',
+    'monk',
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
