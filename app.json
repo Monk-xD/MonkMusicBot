@@ -37,6 +37,14 @@
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true
         },
+        "SUPPORT": {
+            "description": "Fill with TeleGram group username without @",
+            "required": true
+        },
+        "UPDATES": {
+            "description": "Fill with telegram channel username without @",
+            "required": true
+        },
         "MONGO_DB_URI": {
             "description": "fill with the mongodb url (this is needed for the database). Get it from mongodb.cloud.com",
             "required": true
