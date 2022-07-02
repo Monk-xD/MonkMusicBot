@@ -36,7 +36,7 @@ def initialize():
 initialize()
 print("[ INFO ] CLIENT READY! NOW LOADING DATABASE --->")
 
-__version__ = "6.0"
+__version__ = "1.0"
 
 MONGODB_CLI = MongoClient(MONGO_DB_URI)
 db = MONGODB_CLI.wbb
