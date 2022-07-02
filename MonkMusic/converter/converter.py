@@ -1,7 +1,7 @@
 ## Ft. Monk ##
 ## ----------- @Monk_xD ----------- ##
-
-## News Channel : @ -------- ##
+## Music Bot Project : https://github.com/Monk-xD/MonkMusicBot -------- ##
+## News Channel : @FT_Monk -------- ##
 
 import asyncio
 from os import path
